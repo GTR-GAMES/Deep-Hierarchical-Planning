@@ -1,0 +1,39 @@
+# Environment configuration
+task: "three"
+length: 100
+
+# Model dimensions
+latent_dim: 1024
+hidden_dim: 512
+action_dim: 4
+obs_dim:  # This will be set automatically based on your environment
+
+# Training parameters
+K: 8
+E: 16
+goal_codes: 8
+goal_classes: 8
+w_extrinsic: 1.0
+w_exploration: 0.1
+gamma: 0.99
+horizon: 32
+
+# Learning rates
+world_model_lr: 1e-3
+goal_autoencoder_lr: 1e-3
+manager_policy_lr: 1e-6
+manager_critic_lr: 1e-6
+worker_policy_lr: 1e-6
+worker_critic_lr: 1e-6
+
+# Training settings
+training:
+  max_episodes: 10000
+  max_steps: 1000
+  save_interval: 1
+
+# Logging settings
+logging:
+  enabled: true
+  project: "deep-hierarchical-planning"
+  run_name: "experiment-1"
