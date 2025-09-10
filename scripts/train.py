@@ -92,10 +92,6 @@ def train(config):
 
 
 if __name__ == "__main__":
-    # Load configuration
-    # with open("configs/default.yaml", 'r') as f:
-    #     config = yaml.safe_load(f)
-
     config = parse_yaml_with_types("configs/default.yaml")
 
     train(config)
